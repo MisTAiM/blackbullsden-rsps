@@ -296,3 +296,126 @@ start.bat → npm install → node start.js
 - Bun (fast JS runtime — LostCity uses it)
 - VS Code + RuneScript extension (for content development)
 
+
+---
+
+## UPDATE: FULL WIKI SCRAPE COMPLETE (1,313 pages)
+
+### PRESTIGE SYSTEM (exact numbers)
+Prestige 1: Level 99 required | +99 virtual levels
+Prestige 2: Level 101 | +200 total
+Prestige 3: Level 103 | +303 total
+Prestige 4: Level 105 | +408 total
+Prestige 5: Level 107 | +515 total
+Prestige 6: Level 109 | +624 total
+Prestige 7: Level 111 | +735 total (max for PvMer/Skiller)
+Prestige 8: Level 113 | +848 total (Slayer Locked max: P9, Masochist max: P10)
+Prestige 9: Level 115 | +963 total
+Prestige 10: Level 117 | +1080 total
+
+Combat prestige: adds virtual skill levels (P1 = +99 virtual Magic if you prestige Magic)
+Skilling prestige: unlocks new training methods or Slayer tasks (no virtual level bonus)
+
+### TALENT POINTS (exact formula)
+- Default: 1 talent point per 40 levels gained
+- PvMer: +20% in combat skills (1 per 36 levels in combat)
+- Skiller: +20% in non-combat skills
+- Masochist: +10% all skills (1 per 36 levels)
+- Slayer Locked: +20% combat skills; full Skilling tree access without tier prereqs
+- Prestige bonus: extra points on prestige (amount varies by game mode)
+- Talent point orbs: consumable items that grant points directly
+
+### VOTING (exact rewards per site)
+Per vote (RuneLocus gives most):
+- RuneLocus: 3x Vote tokens, 1x Corrupted AFK scroll, 2x Major combat XP token
+- Rune-Server: 1x Vote token, 1x Corrupted AFK scroll, 2x Major combat XP token
+- RuneList: 1x Vote token, 1x Corrupted AFK scroll, 2x Major combat XP token
+Total per full vote: 5 Vote tokens, 3 Corrupted AFK scrolls, 6 Major combat XP tokens
+
+Vote Buffs (12 hours): +5% talent point progress, +100% AFK XP, +20% group XP, +1% DR per site
+
+Vote Streak: 7 days = 1 streak point, 14 days = 2, 21+ days = 3
+
+### DONATOR RANKS (exact thresholds)
+Sapphire: $20 | Emerald: $50 | Ruby: $100 | Diamond: $250
+Dragonstone: $500 | Onyx: $1,000 | Zenyte: $2,000 | Tanzanite: $5,000 | Olympian: $10,000
+
+Double dip: Buy $25 Bond → 25 Donator Credits → buy Rank Book = 50 total rank
+
+Key perks by tier:
+- Sapphire+: Noted bones on altar, transmog mode
+- Emerald+: Noted logs on bonfire, Mining/Thieving/WC/Fishing donor zone
+- Ruby+: Previous teleport on Portal Nexus
+- Diamond+: Permanent corrupt AFK zone, Farming corrupt donor zone
+- Dragonstone+: Dragonstone donor zone, bypass group proximity for vote buff
+- Dragonstone+ gives daily points (1000-1400) + daily slayer spawns (100-180)
+
+### TEMPERING SYSTEM (exact stats)
+Items can be tempered up to 15 times:
+- Rank 1-3: Free (need 1-3 duplicate items)
+- Rank 4: +34.95% stats, 2 more items, 5,000 upgrade gems
+- Rank 7: +45.43% stats, 4 items, 25,000 gems
+- Rank 10: +54.63% stats, 8 items, 105,000 gems
+- Rank 15: +69.66% stats, 16 items, 1,165,000 gems (93 total items needed!)
+
+### ITEM TIER SYSTEM
+Items have [T##] tiers visible on examine:
+- T70: Giant mole range
+- T72: KBD range
+- T90: Primordial boots (example)
+- T95: Corrupted body
+- T105: Echoing body
+- T110: Amulet of the monarchs (passive: heals 2.5% of damage dealt)
+
+### YAMA BOSS DROPS (full list)
+Always: Infernal ashes
+Common (1/10): Coins 120k-600k, Prayer pots, Super restores, Combat pots, XP tokens, Boss tokens 84-240
+Rare: Dragon bones 250-1000, Coins 3.6M-6M, Bonds ($5/$10), Talent respec token
+Regular always: Sharks, Fire runes 20-40k, Blood/Soul runes, Dragon items, Demonite
+Uniques: Oathplate helm/chest/legs, Soulflame horn, Forgotten lockbox
+Pet: Yami (1/1000)
+
+### BOSS TOKEN STORE (key items)
+15,000 Boss tokens: Pious/Dexterous/Arcane prayer scrolls, World Boss Jars
+50 Boss tokens: Overload(+)(4)
+30 Boss tokens: Prayer enhance(+)(4)
+100,000 Boss tokens: Shard of insurance
+20,000 Boss tokens: Looting bag
+
+### ITEM SACRIFICE PERKS (10 categories)
+Bossing, Raiding, Production, Gathering, Melee, Magic, Ranged, Survival, Slayer, Pets
+Sacrificeable items include: Pandora's essence (lesser/normal/greater/perfect), Ethereal weapons,
+Spirit shields (Arcane/Spectral/Elysian/Blood), GWD gear, Dragon items, PvP armors, Void gear
+
+### STARTER TIPS FROM WIKI
+1. ::starter and ::refer codes for starter packs + Sapphire rank book
+2. ::vote + ::claimvotes every 12 hours
+3. ::2fa + ::setpin = +3% drop rate
+4. Talents are #1 power source — prioritize earning talent points
+5. Achievements give early rewards — claim them
+6. Prestige always when you hit the level requirement
+7. Same email for multiple accounts allowed
+
+### ACHIEVEMENTS STARTER TIER (exact rewards)
+- PvM/Skilling/Utility Talent Tree Novice: 1x respective Talent point orb each
+- Vote 3 times: 3x Crystal key, 250k coins
+- Restore 10 HP at pool: 75x Upgrade gems
+- Restore 5 prayer at pool: 2x Crystal key
+- Open 1 Beginner Clue: 1x Beginner clue, 1x Easy clue
+- Equip full Granite: 1x PvM Talent point orb
+- Kill 200 NPCs: 1x PvM Talent point orb
+- Kill 50 each Barrows brother: 3x Barrows chest key
+- Kill World Boss: 3x Enhanced crystal key, 300x Boss token
+- Unlock 25 Collection Log slots: 3x Crystal key
+
+### DROP RATE SOURCES
+Primary methods to increase drop rate:
+1. Voting: +1% per site voted (max +3%, lasts 12 hours after claiming)
+2. Divine luck flasks: consumable item
+3. Bank pin + 2FA: +3% permanent
+
+### AGILITY/CONSTRUCTION/HUNTER
+Not currently in game (per FAQ, as of wiki scrape)
+
+### FOOD/POTIONS
+No food/potion store — buy from GE (non-ironman), fish/farm/herb for ironman
